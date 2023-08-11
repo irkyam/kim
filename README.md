@@ -8,7 +8,7 @@
 
 Технологии: JSON, XML и XSD, SQL
 Тестирование API: Postman
-Рабочие инструменты: qase.io, Ситечко, Jira, Pairwise, pgAdmin, miro, paiza.io, exel, Powershell, Git, Swagger, JMeter
+Рабочие инструменты: qase.io, Ситечко, Jira, Pairwise, pgAdmin, miro, paiza.io, exel, Powershell, Swagger, JMeter
 
 Проекты
 
